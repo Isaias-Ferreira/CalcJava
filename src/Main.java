@@ -7,6 +7,6 @@ public class Main {
     }
     static void Calculos(){
         System.out.println(20+10);
-        int n1 = 123;}
+        int n1 = 123;
+    }
 }
-
